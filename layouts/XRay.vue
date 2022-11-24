@@ -1,5 +1,5 @@
 <template>
-    Home
+    XRay
 </template>
 <script lang="ts">
 </script>
