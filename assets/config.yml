@@ -153,4 +153,8 @@ proxy-groups:
   - sanjose-gt-30168.665616.xyz
   type: url-test
   url: http://www.gstatic.com/generate_204
+- name: Auto
+  type: select
+  proxies:
+  - US
 socks-port: 7891
